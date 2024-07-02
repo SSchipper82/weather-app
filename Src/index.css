@@ -1,0 +1,13 @@
+body {
+  background-color: #f57469;
+}
+
+.main {
+  background-color: #f57469;
+  max-width: 400px;
+  margin: 45px auto;
+  box-shadow: #b4ea63 0px 54px 55px, #b4ea63 0px -12px 30px, #b4ea63 0px 4px 6px,
+    #b4ea63 0px 12px 13px, #b4ea63 0px -3px 5px;
+  border-radius: 16px;
+  padding: 30px;
+}
