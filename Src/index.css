@@ -17,31 +17,63 @@ header {
 }
 
 .search-form-input {
-  background-color: #f536b2;
+  background-color: #dcb879;
   border: 1px solid #f57469;
   border-radius: 10px;
+  border: 1px solid #b4ea63;
   width: 80%;
   font-size: 14px;
   padding: 10px 15px;
-  color: white;
+  color: black;
 }
 
 .search-form-button {
-  background: #f536b2;
+  background: #dcb879;
   padding: 10px;
-  border: 1px solid #f57469;
+  border: 1px solid #b4ea63;
   border-radius: 10px;
-  color: white;
+  color: black;
   margin-left: 5px;
   font-size: 14px;
+}
+
+.weather-app-data {
+  display: flex;
+}
+
+.weather-app-city {
+  margin: 0;
+  font-size: 44px;
+}
+
+.weather-app-details {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.weather-app-temp-container-emoji {
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+.weather-app-temp-container-temp {
+  font-size: 60px;
+  color: #b4ea63;
+  margin-left: 10px;
+}
+
+.weather-app-temp-container-unit {
+  font-size: 15px;
+  margin-top: 15px;
+  color: #b4ea63;
 }
 
 footer {
   padding: 30px 0 0 0;
   text-align: center;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 a {
-  color: #b4ea63;
+  color: #dcb879;
 }
