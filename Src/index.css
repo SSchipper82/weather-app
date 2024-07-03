@@ -39,16 +39,22 @@ header {
 
 .weather-app-data {
   display: flex;
+  justify-content: space-between;
 }
 
 .weather-app-city {
   margin: 0;
-  font-size: 44px;
+  font-size: 38px;
+  line-height: 1.5;
 }
 
 .weather-app-details {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.weather-app-temp-container {
+  display: flex;
 }
 
 .weather-app-temp-container-emoji {
