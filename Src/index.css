@@ -58,19 +58,20 @@ header {
 }
 
 .weather-app-temp-container-emoji {
-  font-size: 30px;
-  margin-top: 10px;
+  font-size: 80px;
+  margin-top: 13px;
 }
 
 .weather-app-temp-container-temp {
-  font-size: 60px;
+  font-size: 50px;
   color: #b4ea63;
   margin-left: 10px;
+  margin-top: 33px;
 }
 
 .weather-app-temp-container-unit {
-  font-size: 15px;
-  margin-top: 15px;
+  font-size: 20px;
+  margin-top: 38px;
   color: #b4ea63;
 }
 
